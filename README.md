@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AnonymousUserII
-- 👀 I’m interested in whatever isn't boring
-- 🌱 I’m currently learning JS, Python, & Java
-- 📫 I'm reachable via email. Please hesistate to send spam mail.
+- 📫 I'm reachable via email, but please hesistate to send spam
+
+
+- 🌱 Currently learning C++
