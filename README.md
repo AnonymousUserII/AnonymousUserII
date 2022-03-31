@@ -1,1 +1,1 @@
-- 🌱 Currently learning C and C#
+- 🌱 Currently learning Python and JavaScript
