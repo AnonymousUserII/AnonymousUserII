@@ -1,1 +1,3 @@
-- 🌱 Currently learning Python and JavaScript
+- Currently learning Python
+- Likes: Neat code, good documentation
+- Dislikes: When APIs break
