@@ -1,3 +1,2 @@
 - Currently learning Python
-- Likes: Neat code, good documentation
-- Dislikes: When APIs break
+- Dislikes: API changes
