@@ -1,2 +1,2 @@
 - Currently learning Python
-- Dislikes: API changes
+- Dislikes: Python
